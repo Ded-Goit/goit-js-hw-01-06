@@ -1,0 +1,8 @@
+kbd {
+  font-size: x-large;
+  color: rgb(244, 244, 244);
+  background-color: darkgrey;
+  border: 1px solid hsl(17, 64%, 2%);
+  border-radius: 2px;
+  padding: 1px 3px;
+}
